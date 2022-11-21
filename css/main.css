@@ -42,17 +42,17 @@ ul.posts li {
     list-style: none;
 }
 
-.box {
+.box1 {
   width: 70%;
+}
+
+.box2 {
+  width: 100%;
 }
 
 img {
   width: 100%;
   height: 100%;
-}
-
-.aligncenter {
-    text-align: center;
 }
 
 
