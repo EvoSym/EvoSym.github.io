@@ -1,3 +1,4 @@
 name: Symbioses in Evolution
 markdown: kramdown
+remote_theme: Millennial
 permalink: /blog/:year/:month/:day/:title
