@@ -17,11 +17,6 @@ a {
     text-decoration: none;
     color: #999;
 }
-nav {
-    display: block;
-    color: #CCFFFF;
-    margin-right: 20px;
-}   
 a:hover {
     text-decoration: underline;
 }
