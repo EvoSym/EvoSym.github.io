@@ -38,22 +38,30 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
-
 .box {
   width: 80%;
 }
-
 .box2 {
   width: 100%;
 }
-
 img {
   width: 100%;
   height: 100%;
 }
+.header{
+    width: 100%;
+    height: 100px;
+    display: block;
+    background-color: #006666;
+}
 
+header .inner{
+    width: 80%;
+    height: 100%;
+    display: block;
+    background-color: #66CCCC;
+}
 
