@@ -10,6 +10,15 @@ nav {
     display: block;
     background-color: #1E1E60;
 }
+nav logo {
+    height: 100%;
+    float: left;
+    vertical-align: middle;
+}  
+nav logo img{
+    height: 50px;
+    margin-top: 5px; 
+}
 body {
     margin: 60px auto;
     width: 70%;
