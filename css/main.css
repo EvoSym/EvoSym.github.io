@@ -27,18 +27,6 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-"""
-search-form {
-    float: right;
-    margin-right: 10px;
-}
-input[type=text]{
-    padding: 7px;
-    border:none;
-    font-size: 16px;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-"""
 a {
     text-decoration: none;
     color: #999;
