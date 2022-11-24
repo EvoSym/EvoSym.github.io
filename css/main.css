@@ -87,13 +87,13 @@ ul.posts li {
     vertical-align: middle;
 }
 .box {
-  width: 80%;
+  width: 70%;
   margin-left: 50px;
   margin-right: 50px;
 }
 .box2 {
-  width: 100%;
-  text-align: center;
+  width: 90%;
+  align: center;
   margin-left: 50px;
   margin-right: 50px;
 }
