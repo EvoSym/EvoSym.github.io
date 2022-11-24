@@ -51,6 +51,10 @@ p {
     margin-left: 60px;
     margin-right: 60px;
 }
+h2, h3 {
+    margin-left: 60px;
+    margin-right: 60px;
+}
 address {
     margin-left: 60px;
     margin-right: 60px;
@@ -76,7 +80,7 @@ ul.posts li {
   margin-right: 60px;
 }
 .box2 {
-  width: 80%;
+  width: 90%;
   align: center;
   margin-left: 60px;
   margin-right: 60px;
