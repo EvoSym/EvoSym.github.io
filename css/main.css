@@ -23,14 +23,14 @@ nav ul {
 }
 nav a {
     color: #f6f6f8;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 20px;
     list-style: none;
     font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -44,15 +44,16 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 1.8em;
+    line-height: 1.9em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-left: 10%;
     margin-right: 10%;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.7em;
+    line-height: 1.5em;
     color: #333;
     margin-left: 10%;
     margin-right: 10%;
