@@ -33,16 +33,9 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
-}
-b {
-    text-decoration: none;
-    color: #f8f8f8;
+    color: #4d4d4d;
 }
 a:hover {
-    text-decoration: underline;
-}
-b:hover {
     text-decoration: underline;
 }
 h1 {
