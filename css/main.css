@@ -21,6 +21,9 @@ nav ul {
     float: right;
     vertical-align: middle;
 }
+nav a {
+    color: #f6f6f8;
+}
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 20px;
