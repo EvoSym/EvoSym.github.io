@@ -55,7 +55,11 @@ h2, h3 {
     margin-left: 8%;
     margin-right: 8%;
 }
-.posts {
+posts {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+meta {
     margin-left: 8%;
     margin-right: 8%;
 }
