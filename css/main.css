@@ -18,7 +18,7 @@ nav ul {
     padding: 10px;
     list-style: none;
     font-weight: bold;
-    float: left;
+    float: right;
     vertical-align: middle;
 }
 footer ul {
@@ -55,7 +55,7 @@ h2, h3 {
     margin-left: 8%;
     margin-right: 8%;
 }
-posts {
+.posts {
     margin-left: 8%;
     margin-right: 8%;
 }
