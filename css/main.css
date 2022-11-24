@@ -23,6 +23,7 @@ nav ul {
 }
 nav a {
     color: #f6f6f8;
+    font-size: 1.3em;
 }
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -49,6 +50,7 @@ h1 {
 }
 p {
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
     margin-left: 10%;
