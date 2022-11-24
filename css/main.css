@@ -41,37 +41,37 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 h2, h3 {
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 posts {
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 meta {
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 address {
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 ul.posts { 
     margin: 20px auto 40px; 
@@ -84,18 +84,18 @@ ul.posts li {
 }
 .box {
   width: 65%;
-  margin-left: 8%;
-  margin-right: 8%;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .box2 {
   width: 80%;
   text-align: center;
-  margin-left: 8%;
-  margin-right: 8%;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .logo {
     width: 20%;
-    margin-left: 5%;
+    margin-left: 20px;
 }
 img {
   width: 100%;
