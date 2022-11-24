@@ -5,7 +5,7 @@ body {
     background: transparent; 
     min-height: 100%;
     margin: 20px auto;
-    width: 90%;
+    width: 95%;
 }
 nav {
     width: 100%;
@@ -46,7 +46,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    width: 80%;
+    width: 80%, center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
