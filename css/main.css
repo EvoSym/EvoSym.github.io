@@ -1,6 +1,6 @@
 body {
     background: transparent; 
-    margin: 0;
+    width: 80%;
 }
 nav {
     width: 100%;
@@ -29,8 +29,6 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
-    margin: 60px auto;
-    width: 80%;
 }
 a:hover {
     text-decoration: underline;
@@ -60,13 +58,13 @@ ul.posts li {
     vertical-align: middle;
 }
 .box {
-  width: 60%;
+  width: 80%;
 }
 .box2 {
-  width: 800%;
+  width: 100%;
 }
 .logo {
-    width: 10%
+    width: 20%
 }
 img {
   width: 100%;
