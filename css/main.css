@@ -43,6 +43,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    width: 80%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -59,10 +60,10 @@ ul.posts li {
     vertical-align: middle;
 }
 .box {
-  width: 80%;
+  width: 60%;
 }
 .box2 {
-  width: 100%;
+  width: 800%;
 }
 .logo {
     width: 10%
