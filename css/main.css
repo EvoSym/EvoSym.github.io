@@ -110,8 +110,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
     vertical-align: middle;
-    font-size: 1.2em;
-    line-height: 1.4em;
 }
 .box {
   width: 65%;
