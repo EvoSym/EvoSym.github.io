@@ -57,10 +57,19 @@ p {
     margin-left: 10%;
     margin-right: 10%;
 }
-h2, h3 {
+h2 {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.4em;
+    line-height: 1.4em;
+}
+h3 {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.3em;
+    line-height: 1.3em;
 }
 posts {
     margin-left: 10%;
