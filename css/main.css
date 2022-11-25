@@ -76,15 +76,22 @@ posts {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.3em;
+    line-height: 1.4em;
 }
 meta {
     margin-left: 10%;
     margin-right: 10%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.3em;
+    line-height: 1.4em;
 }
 span {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.3em;
+    line-height: 1.4em;
 }
 address {
     margin-left: 10%;
