@@ -23,14 +23,14 @@ nav ul {
 }
 nav a {
     color: #f6f6f8;
-    font-size: 1em;
+    font-size: 70%;
 }
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 20px;
     list-style: none;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 65%;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -44,16 +44,16 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 1.5em;
-    font-size: 1.5em;
+    font-size: 100%;
+    font-size: 100%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-left: 10%;
     margin-right: 10%;
 }
 p {
-    font-size: 1.1em;
+    font-size: 80%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.4em;
+    line-height: 85%;
     color: #333;
     margin-left: 10%;
     margin-right: 10%;
@@ -62,34 +62,34 @@ h2 {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.3em;
-    line-height: 1.4em;
+    font-size: 90%;
+    line-height: 90%;
 }
 h3 {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.25em;
-    line-height: 1.25em;
+    font-size: 85%;
+    line-height: 85%;
 }
 posts {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.3em;
-    line-height: 1.4em;
+    font-size: 85%;
+    line-height: 85%;
 }
 post.title {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.1em;
-    line-height: 1.1em;
+    font-size: 85%;
+    line-height: 85%;
 }
 span {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.1em;
-    line-height: 1.1em;
+    font-size: 85%;
+    line-height: 85%;
 }
 address {
     margin-left: 10%;
@@ -97,13 +97,15 @@ address {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 60%;
     margin-left: 10%;
     margin-right: 10%;
 }
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.6em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 85%;
+    line-height: 85%;
     vertical-align: middle;
 }
 ul.posts li {
