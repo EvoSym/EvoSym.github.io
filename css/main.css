@@ -64,6 +64,7 @@ h2, h3 {
 posts {
     margin-left: 10%;
     margin-right: 10%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 meta {
     margin-left: 10%;
@@ -72,6 +73,7 @@ meta {
 span {
     margin-left: 10%;
     margin-right: 10%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 address {
     margin-left: 10%;
