@@ -110,6 +110,8 @@ ul.posts li {
   width: 30%;
   margin-left: 10%;
   margin-right: 10%;
+  display: inline-block;
+  vertical-align: top;
 }
 .logo {
     width: 20%;
