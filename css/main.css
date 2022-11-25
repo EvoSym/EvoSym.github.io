@@ -23,14 +23,14 @@ nav ul {
 }
 nav a {
     color: #f6f6f8;
-    font-size: 90%;
+    font-size: 100%;
 }
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 20px;
     list-style: none;
     font-weight: bold;
-    font-size: 70%;
+    font-size: 80%;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -44,15 +44,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 120%;
+    font-size: 130%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-left: 10%;
     margin-right: 10%;
 }
 p {
-    font-size: 80%;
+    font-size: 100%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 110%;
     color: #333;
     margin-left: 10%;
     margin-right: 10%;
@@ -61,40 +60,34 @@ h2 {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 100%;
-    line-height: 120%;
+    font-size: 120%;
 }
 h3 {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 90%;
-    line-height: 110%;
+    font-size: 110%;
 }
 posts {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 90%;
-    line-height: 120%;
+    font-size: 100%;
 }
 post.title {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 90%;
-    line-height: 120%;
+    font-size: 100%;
 }
 span {
     margin-left: 10%;
     margin-right: 10%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 90%;
-    line-height: 120%;
+    font-size: 100%;
 }
 address {
     margin-left: 10%;
     margin-right: 10%;
-    font-size: 90%;
-    line-height: 110%;
+    font-size: 100%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -105,8 +98,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 85%;
-    line-height: 85%;
+    font-size: 100%;
     vertical-align: middle;
 }
 ul.posts li {
