@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper alert"
+title: "New paper submitted by Hamm et al., 2022, BioRxiv"
 date: 2023-02-24
 ---
 
