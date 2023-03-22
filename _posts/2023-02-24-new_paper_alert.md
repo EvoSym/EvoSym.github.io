@@ -4,6 +4,7 @@ title: "New paper submitted by Hamm et al., 2022, BioRxiv"
 date: 2023-02-24
 ---
 
-We congratulate Joshua Hamm and all co-authors for sharing new exciting insights into the lifestyle of a member of the DPANN archaea [website] [https://www.biorxiv.org/content/10.1101/2023.02.24.529834v1]
+We congratulate Joshua Hamm and all co-authors for sharing new exciting insights into the lifestyle of a member of the DPANN archaea, see
+<a href="https://www.biorxiv.org/content/10.1101/2023.02.24.529834v1">BioRxiv link</a>
 
 
