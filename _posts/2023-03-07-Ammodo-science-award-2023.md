@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ammodo science award 2023"
+title: "Ammodo Science Award 2023"
 date: 2023-03-07
 ---
 
