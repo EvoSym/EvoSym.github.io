@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper submitted by Hamm et al., 2022, BioRxiv"
+title: "New paper submitted by Josh and amazing collaborators"
 date: 2023-02-24
 ---
 
