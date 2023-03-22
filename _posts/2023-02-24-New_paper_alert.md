@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper submitted by Josh and amazing collaborators"
+title: "New paper submitted by Joshua and co-authors"
 date: 2023-02-24
 ---
 
