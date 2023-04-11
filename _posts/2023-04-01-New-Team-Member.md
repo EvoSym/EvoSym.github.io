@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to our new Team Member"
+title: "Welcome to our new Team Member Dina"
 date: 2023-04-01
 ---
 
